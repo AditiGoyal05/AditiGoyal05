@@ -8,6 +8,7 @@
 **Languages and Tools**
 <p float="left">
 <img src="https://user-images.githubusercontent.com/87319921/131159583-60be0f3d-d25f-463f-a632-75f8f37417d1.png" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/87319921/131159603-6c06944c-b757-4475-b702-f24b44a12f32.png" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/87319921/131159622-703987cf-80fc-4342-a74b-0cb957a2d58b.png" width="50" height="50">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="50" height="50">
