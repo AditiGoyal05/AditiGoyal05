@@ -1,6 +1,5 @@
 **👋 Hi, I’m Aditi**
 
-- 👀 I’m interested in reading books.
 - 🌱 I’m currently learning APIs and SQL.
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/feed/)
 
